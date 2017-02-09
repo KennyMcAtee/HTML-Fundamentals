@@ -1,0 +1,122 @@
+body {
+  background: black;
+  margin-left:100px;
+  margin-right:100px;
+}
+
+a {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.Top_menu {
+   margin-left:10px;
+   margin-right:10px;
+   paddng-top: 20px;
+   color:orange;
+}
+
+.Returntoall {
+  color: white;
+  width: 1000px;
+  text-decoration:none;
+}
+
+.Uppersection {
+  background-color:red;
+  padding-top: 25px;
+  padding-left:100px;
+  padding-right:100px;
+  padding-bottom: 30px;
+}
+
+.shoe1 {
+  margin-top: 60px;
+  width:60%;
+  height:60%
+}
+
+.upperdesc {
+   padding-left:15px;
+   padding-right: 30px;
+}
+.stars {
+  padding-left: 20px;
+  height:10%;
+  width:10%;
+}
+.Large-font {
+  font-size: 50px;
+  color: white;
+  width:350px;
+  margin: 10px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+}
+.season {
+  color:gray;
+  margin-top: 0px;
+  margin-left: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.dashedline {
+  border-bottom: 2px dashed #000000;
+  color:lightgrey;
+  width: 350px;
+}
+.review {
+  color:white;
+  margin-left: 15px;
+  font-size: 15px;
+}
+.button {
+  background-color:white;
+  text-decoration:none;
+  height: 50px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.topic {
+  padding: 0px;
+  margin: 0px;
+  font-size: 25px;
+  color: black;
+}
+
+.subject {
+  font-size: 15px;
+  color: grey;
+}
+
+.recitems {
+  background-color: white;
+}
+.rectitle {
+  width: 100%;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: lightgrey;
+  text-align: center;
+}
+.recimage{
+  display: block;
+  background-color: red;
+  padding-left:50px;
+  padding-right:50px;
+  height:225px;
+  width:275px;
+}
+.description {
+  font-size:25px;
+  margin-bottom:0px;
+}
+.Bottom_menu {
+  font-size: 15px;
+   margin-left:10px;
+   margin-right:10px;
+   padding-top: 35px;
+   color:orange;
+}
